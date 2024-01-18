@@ -7,8 +7,8 @@ A lista de nomes é puxada do banco de dados para a verificação, podem ser esc
 
 A galeria de fotos também puxa as ulrs do banco de dados, a lista é escrita atráves do código fonte, de um modo que permite controlar a ordem das imagens, o que é feito com a manipulação das IDs.
 
-Endereço do website - https://convite-i5xxv2nwo-eleazy.vercel.app/
-Páginas de respostas - https://convite-i5xxv2nwo-eleazy.vercel.app/responses | https://convite-i5xxv2nwo-eleazy.vercel.app/songs
+Endereço do website -  <a href="https://convite-i5xxv2nwo-eleazy.vercel.app/" target="_blank">Abrir</a>
+Páginas de respostas - <a href="https://convite-i5xxv2nwo-eleazy.vercel.app/responses" target="_blank">Abrir</a>  <a href="https://convite-i5xxv2nwo-eleazy.vercel.app/songs" target="_blank">Abrir</a>  
 
 
 ![0](https://github.com/eleazy/Web-invitation/assets/37671310/14e27a75-83b7-49ea-9cea-5e9b96bdb9d0)
